@@ -30,5 +30,7 @@ Here are some ideas to get you started:
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/hyhytro) 
 
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hyhy7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
