@@ -2,6 +2,8 @@
 <!--
 **hyhy7/hyhy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/693949487391047772)](https://discord.com/users/693949487391047772)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/(https://discord.gg/slk-community)) 
 
@@ -30,8 +32,7 @@ Here are some ideas to get you started:
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hyhy7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
- ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/hyhytro) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
